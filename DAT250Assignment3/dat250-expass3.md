@@ -5,6 +5,7 @@ Report for the third dat250 assignment
 
 I had no issues during the installation or use of MongoDB
 
-### Screenshots for Experiment 1
+### Screenshots for experiment 1 and 2
 
+Check the "Screenshots_assignment3" folder for all results.
 
