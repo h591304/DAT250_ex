@@ -12,5 +12,6 @@ Ex1:
 
 Ex2:
 ![image](https://github.com/h591304/DAT250_ex/assets/61086707/d6252502-79b9-4c8d-bb5e-aa396efca41b)
+![image](https://github.com/h591304/DAT250_ex/assets/61086707/f981e2da-57bc-477f-b96e-2b0f3c3726c6)
 
 
