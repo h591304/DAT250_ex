@@ -17,8 +17,8 @@ Ex2:
 Ex3:
 ![image](https://github.com/h591304/DAT250_ex/assets/61086707/e5d0e225-8462-4239-916f-b9a6a8e9518f)
 ![image](https://github.com/h591304/DAT250_ex/assets/61086707/34fcd1c5-2b14-4798-941a-d0c072bd4001)
-
 ![image](https://github.com/h591304/DAT250_ex/assets/61086707/6a2c6117-06eb-4017-88a9-c24123871584)
 
-
+### any pending issues with this assignment which you did not manage to solve
+no, not really.
 
