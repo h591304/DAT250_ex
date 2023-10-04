@@ -10,3 +10,7 @@ The code is in the same repo
 Ex1:
 ![image](https://github.com/h591304/DAT250_ex/assets/61086707/2c1fe856-644f-4b95-ade5-b333931a4e4e)
 
+Ex2:
+![image](https://github.com/h591304/DAT250_ex/assets/61086707/d6252502-79b9-4c8d-bb5e-aa396efca41b)
+
+
