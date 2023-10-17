@@ -5,24 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f356dc75-dba3-4b1a-bf42-8c95b46b50f8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Assignment7-rabbitmq/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assignment7-rabbitmq/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assignment7-rabbitmq/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assignment7-rabbitmq/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assignment7-rabbitmq/src/main/java/no/hvl/dat250/Recv.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/no/hvl/dat250/EmitLog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/no/hvl/dat250/NewTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/no/hvl/dat250/ReceiveLogs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/no/hvl/dat250/Recv.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/no/hvl/dat250/Send.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/no/hvl/dat250/Worker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../DAT250Assignment4-spring_and_rest/dat250-spring-counters-todos" beforeDir="false" afterPath="$PROJECT_DIR$/../DAT250Assignment4-spring_and_rest/dat250-spring-counters-todos" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DAT250Assignment4/.vscode/settings.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DAT250Assignment4/dat250-spring-counters-todos" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DAT250Assignment7-rabbitmq/src/main/java/org/example/Send.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/no/hvl/dat250/NewTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/no/hvl/dat250/NewTask.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,6 +61,7 @@
       <updated>1696960763650</updated>
       <workItem from="1696960764966" duration="1522000" />
       <workItem from="1697562926697" duration="1930000" />
+      <workItem from="1697565216857" duration="889000" />
     </task>
     <servers />
   </component>
