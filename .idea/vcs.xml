@@ -2,5 +2,6 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/DAT250Assignment4-spring_and_rest/dat250-spring-counters-todos" vcs="Git" />
   </component>
 </project>
